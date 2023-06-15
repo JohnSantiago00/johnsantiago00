@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/john45231" target="blank"><img src="https://img.shields.io/twitter/follow/john45231?logo=twitter&style=for-the-badge" alt="john45231" /></a> </p>
 
-- 💬 Ask me about **React,NodeJS,AWS,**
+- 💬 Ask me about **React,NodeJS,AWS**
 
 - 📫 How to reach me **Santiago.john96@gmail.com**
 
