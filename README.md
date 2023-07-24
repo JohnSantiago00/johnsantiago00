@@ -24,9 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnsantiago00&show_icons=true&locale=en&layout=compact" alt="johnsantiago00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsantiago00&show_icons=true&locale=en" alt="johnsantiago00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnsantiago00&" alt="johnsantiago00" /></p>
 
 
 
