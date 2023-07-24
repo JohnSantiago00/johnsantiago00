@@ -32,7 +32,7 @@
 
 <!-- website linked to gif -->
 <p align = "center" >
-<a href="https://johnsantiago.dev" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 100px;" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif" /></a></p>
+<a href="https://johnsantiago.dev" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 75px;" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif" /></a></p>
 
 
 
