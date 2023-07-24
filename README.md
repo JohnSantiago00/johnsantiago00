@@ -31,9 +31,11 @@
 
 
 <!-- website linked to gif -->
-<p align = "center" >
-<a href="https://johnsantiago.dev" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 25px;" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif" /></a></p>
-
+<p align="center">
+  <a href="https://johnsantiago.dev" target="_blank">
+    <img alt="Portfolio" width="25" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif"/>
+  </a>
+</p>
 
 
 
