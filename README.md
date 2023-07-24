@@ -33,7 +33,7 @@
 <!-- website linked to gif -->
 <p align="center">
   <a href="https://johnsantiago.dev" target="_blank">
-    <img alt="Portfolio" width="75" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif"/>
+    <img alt="Portfolio" width="100" src="https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif"/>
   </a>
 </p>
 
