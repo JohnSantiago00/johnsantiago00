@@ -26,9 +26,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsantiago00&show_icons=true&locale=en" alt="johnsantiago00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnsantiago00&" alt="johnsantiago00" /></p>
 
 <!-- website linked to gif -->
 <p align="center">
