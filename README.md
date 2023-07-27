@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnsantiago00&label=Profile%20views&color=0e75b6&style=flat" alt="johnsantiago00" /> </p>
 
-<p align="left"> <a href="https://twitter.com/john45231" target="blank"><img src="https://img.shields.io/twitter/follow/john45231?logo=twitter&style=for-the-badge" alt="john45231" /></a> </p>
 
 - 💬 Ask me about **React,NodeJS,AWS**
 
@@ -28,12 +27,6 @@
 
 
 
-<!-- website linked to gif -->
-<p align="center">
-  <a href="https://johnsantiago.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-      </a>
-</p>
 
 
 
