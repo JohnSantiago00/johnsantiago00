@@ -31,8 +31,8 @@
 <!-- website linked to gif -->
 <p align="center">
   <a href="https://johnsantiago.dev" target="_blank">
-    <img alt="Portfolio" width="600" src="[https://raw.githubusercontent.com/karostudio/NeonButton/master/screenshots/button.gif](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+    <img alt="Portfolio" width="600" src="
+  </a>https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
 </p>
 
 
